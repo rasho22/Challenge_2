@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+}
+
+.container {
+	width: 1000px;
+}
+
+.vert {
+	background-color: #27AE61;
+}
+
+#image {
+	background-image: url(images/banner.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
